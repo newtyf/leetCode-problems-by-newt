@@ -27,4 +27,4 @@ Output: false
 ---
 ## **_Solution_:**
 
-![This is an image](./index.png)
+![This is an image](./solutiom.png)
