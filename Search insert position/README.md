@@ -25,8 +25,8 @@ Output: 4
 ---
 
 # **_Solution_**:
-![this is an image](./test.png)
+![this is an image](./imgs/test.png)
 
-![this is an image](./solution.png)
+![this is an image](./imgs/solution.png)
 
 
