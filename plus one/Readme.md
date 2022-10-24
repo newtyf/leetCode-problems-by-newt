@@ -36,5 +36,5 @@ digits does not contain any leading 0's.
 ```
 
 # Solution
-![](/imgs/test.png)
-![](/imgs/solution.png)
+![](./imgs/test.png)
+![](./imgs/solution.png)
