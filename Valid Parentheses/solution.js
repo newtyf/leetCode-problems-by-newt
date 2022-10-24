@@ -18,7 +18,6 @@ function validBrackets(input) {
         (element == "}" && topStack == "{") ||
         (element == "]" && topStack == "[")
       ) {
-        console.log("valido");
       } else {
         return false;
       }
@@ -34,4 +33,5 @@ function validBrackets(input) {
 // this function returns true if the parentheses are successful or false otherwise
 
 var result = validBrackets(input);
-console.log(result);
+
+module.exports = { validBrackets };
