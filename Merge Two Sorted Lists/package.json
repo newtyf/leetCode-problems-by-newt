@@ -1,0 +1,15 @@
+{
+  "name": "merge-two-sorted-lists",
+  "description": "Se le dan los encabezados de dos listas enlazadas ordenadas **list1** y **list2**.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Axel Muñoz <axelskam.123@outlook.es>",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  },
+  "license": "MIT"
+}
