@@ -1,0 +1,16 @@
+{
+  "name": "find-the-index-of-the-first-occurrence-in-a-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Axel Muñoz <axelskam.123@outlook.es>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
